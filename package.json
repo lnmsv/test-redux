@@ -1,0 +1,11 @@
+{
+  "name": "name",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lnmsv/test-redux",
+  "author": "piopump",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^4.0.5"
+  }
+}
